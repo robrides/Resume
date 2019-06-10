@@ -1,6 +1,8 @@
 ## **Rob Lounsbury**
 MBA, MS, AWS CSA-A, OCA, CISM, CISSP  
-DoD Clearance 
+DoD Clearance  
+https://www.linkedin.com/in/roblounsbury  
+http://robcodes.pro
 
 ### Job Related Training and Certification
 1. Oracle Certified Associate Java SE 8 Programmer, 2019
