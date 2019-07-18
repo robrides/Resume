@@ -6,9 +6,9 @@ http://robcodes.pro
 [Resume pdf](https://github.com/robrides/Resume/blob/master/Rob_Lounsbury_Resume_July_2019.pdf)
 
 ### Summary
-● Full-Stack Java bootcamp graduate seeks Software Engineering position - Adept at learning new technologies and skills quickly
-● Strong soft skills both working within teams and at ‘C’ level
-● Dedicated | Critical Thinker | Team Player | Leader of IT Professionals
+● Full-Stack Java bootcamp graduate seeks Software Engineering position - Adept at learning new technologies and skills quickly  
+● Strong soft skills both working within teams and at ‘C’ level  
+● Dedicated | Critical Thinker | Team Player | Leader of IT Professionals  
 
 |   Technologies    | and         | Skills           |
 |-----------------|----------------------|-----------------|
