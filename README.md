@@ -3,7 +3,7 @@ MBA, MS, AWS CSA-A, OCA, CISM, CISSP
 DoD Clearance  
 https://www.linkedin.com/in/roblounsbury  
 http://robcodes.pro  
-[Resume pdf](https://github.com/robrides/Resume/blob/master/Rob_Lounsbury_Resume_July_2019.pdf)
+[Resume pdf](https://github.com/robrides/Resume/blob/master/Rob_Lounsbury_Resume_April_2020)
 
 ### Summary
 ● Full-Stack Java bootcamp graduate seeks Software Engineering position - Adept at learning new technologies and skills quickly  
@@ -12,14 +12,48 @@ http://robcodes.pro
 
 |   Technologies    | and         | Skills           |
 |-----------------|----------------------|-----------------|
-| AWS Cloud     | JUnit / TDD | JSON   |
-| Java / J2EE     | Angular / TypeScript | RESTful APIs    |
-| Spring Boot     | Gradle / Maven       | Postman         |
-| Spring MVC      | Git / Github         | Agile / Scrum   |
-| Spring Data JPA | HTML / CSS           | Trello / Kanban |
-| OOP / OOD       | MySQL                | Linux           |
+| AWS Cloud     | Angular / TypeScript / TDD | Node.js / Express |
+| Java / J2EE     | React w/ Redux | REST APIs |
+| Spring MVC     | Gradle / Maven       | Microservices |
+| Spring Data JPA | Git / Github | XML/SOAP/SAML   |
+| OOP / OOD | HTML / CSS | Trello / Agile/Scrum |
+| JUnit       | MongoDB / MLab | Linux |
+| GraphQL | Oracle 12c | Tomcat
 
 ### Work Experience:
+####Booz Allen Hamilton, O’Fallon, IL | Software Engineer | 9/2019 – Present
+● Modernization team member for a multi-site Java and Oracle 12c based web application  
+● Transitioning interface to Services Oriented Architecture (SOA), Simple Object Access  
+Protocol (SOAP), Security Assertion Markup Language (SAML) based service improving
+security and reducing overhead  
+● Implementing microservices architectures promoting loose coupling and flexibility  
+● Technologies include Java 11, servlets, Apache Tomcat, Apache CXF, JAXWS, JAXRS, Spring  
+Framework, Hibernate, Oracle stored procedures, Oracle Weblogic  
+● Evaluates and resolves security vulnerabilities from Micro Focus Fortify Static Code Analyzer  
+● Demonstrates excellent communication skills across development tool sets including JIRA,
+Slack, Skype, Confluence, Yammer, as well as Agile SCRUM activities  
+● Performed development remotely on Amazon Web Services as well as company on-prem
+environments via VPN  
+● Championed the adoption of new technologies for application modernization to include
+GraphQL and TypeScript  
+● Acquired new skills including React, Redux, GraphQL, Apollo, Node.js, and Express all being
+implemented as part of application modernization
+
+#### Skill Distillery, Denver, CO | Full-Stack Software Development Course | 3/2019 – 7/2019
+● Developed multiple full-stack web applications using Java SE 8, Spring, and Hibernate  
+● Wrote TypeScript and JavaScript building client-side user interfaces  
+● Wrote RESTful application programming interfaces for external consumption  
+● Code developed using test driven development approach with JUnit Jupiter  
+● Participated in Agile SCRUM methodology as a developer and database administrator  
+● Worked as a team member using Slack, Trello, and pair programming  
+● Achieved Oracle Certified Associate Java SE 8 at 6 weeks into the course  
+● Sample projects built in one week or less  
+○ [VETd](​http://vetd.robcodes.pro)  
+○ [Todo](http://todo.robcodes.pro)  
+○ [Ride Tracker](​http://ridetracker.robcodes.pro)  
+○ [City Sprouts](​http://citysprouts.robcodes.pro)  
+● Visit [​robcodes.pro](http://robcodes.pro)​ for my professional portfolio
+
 #### Enhanced Veterans Solutions Inc. | Senior Technology Director and Senior Systems Administrator  | 5/2018 – 2/2019
 ● Led 40 systems administrators supporting 12 Air Mobility Command (AMC) Command and
 Control (C2) enterprise level systems at three distributed data centers  
@@ -30,9 +64,9 @@ Control (C2) enterprise level systems at three distributed data centers
 ● Provided feedback to the customer for process and system monitoring enhancements
 targeted at improved system reliability, availability, and maintainability  
 ● Championed reorganization to ensure the highest level of contract performance  
-● Wrote employee appraisals and recommended appropriate salary increases 
+● Wrote employee appraisals and recommended appropriate salary increases
 ** **
-  
+
 #### NetEffects Inc. | Process Engineer | 4/2018
 ● Used knowledge of Capability Maturity Model Integration (CMMI) to guide process improvement for software development supporting six US Air Force fixed and rotary winged aircraft as well as missile software development efforts
 ** **
@@ -45,7 +79,7 @@ facilitate timely and accurate project estimates
 ● Assisted with ISO and CMMI process identification, development, and refinement to
 support IT engineering services
 ** **
-#### TRI-COR Industries, Inc., Alexandria, VA | Contract Deputy Program Manager and Chief Systems Engineer | 07/2017 – 10/2017 
+#### TRI-COR Industries, Inc., Alexandria, VA | Contract Deputy Program Manager and Chief Systems Engineer | 07/2017 – 10/2017
 ● Led 182 personnel supporting 12 programs across Air Mobility Command and U.S.
 Transportation Command (USTRANSCOM)  
 ● Oversaw Agile and Waterfall software development methodologies with respect to
@@ -85,7 +119,7 @@ Certification and Accreditation Process (DIACAP) and AF guidelines
 security architectures to meet new and evolving security requirements using knowledge of IT application software design principles, methodologies, and approaches used in developing, coding, testing, and maintaining applications software that support functional requirements
 ** **
 
-#### US Air Force, Scott AFB, IL | Division Chief, Technology and Interoperability Facility | 2011 - 2012 
+#### US Air Force, Scott AFB, IL | Division Chief, Technology and Interoperability Facility | 2011 - 2012
 ● Directed 13 personnel in the operations and maintenance of a $50M, 15K square foot
 terrestrial, and airborne computer network test facility  
 ● Teamed with customers in reviewing and approving project support agreements for
@@ -101,7 +135,7 @@ capabilities
 ● Conducted written performance appraisals, feedbacks, and mentored military and civilian
 personnel on professional and personal growth that contributed to Air Force goals / values
 ** **
-#### US Air Force, Transit Center Manas, Kyrgyzstan | Deputy Commander | 2010-2011 
+#### US Air Force, Transit Center Manas, Kyrgyzstan | Deputy Commander | 2010-2011
 ● Directed engineering, installation, operations, and maintenance of entire communications squadron - 79 military and contractor personnel supporting 17 functional areas  
 ● Promoted teamwork in a diverse environment  
 ● Ensured confidentiality, integrity, and availability of classified and unclassified, system,
@@ -117,7 +151,7 @@ problems and providing assistance to include:
 	○ Creating backup files for users on workstations and servers  
 	○ Performing installation and configuration of complex software and wireless networks  
 ● Developed contingency plans in the event operations would need to be relocated  
-● Advised leadership on human resources and systems/network health and status 
+● Advised leadership on human resources and systems/network health and status
 ** **
 
 ### Job Related Training and Certification
@@ -132,7 +166,7 @@ problems and providing assistance to include:
 ** **
 
 ### Technologies Managed
- 
+
 F5 BIgIP Load Balancers, Check Point Firewalls, Cisco Switches and Routers, VPNs, Windows Servers, Red Hat Enterprise Linux, Build Automation, Automated Backups, Oracle RAC Database Replication, Oracle Data Guard Data Protection and Disaster Recovery, Active Directory, IBM Security Access Manager, IBM Datapower XML Firewalls, Hazelcast In-Memory Data Grid, MongoDB, Presto, Talend Data Integration, JBoss, Distributed Multi-site Systems, SOA
 
 ** **
@@ -158,10 +192,3 @@ Major:​ Computer and Information Science ​Minor: ​Management
 ● Data Structures and Abstraction - C++  
 ● Programming in Java  
 ● Programming in Perl
-
-
-
-
-
-
-
