@@ -50,7 +50,7 @@ implemented as part of application modernization
 ● Sample projects built in one week or less  
 ○ [VETd](http://vetd.robcodes.pro)  
 ○ [Todo](http://todo.robcodes.pro)  
-○ [Ride Tracker](​http://ridetracker.robcodes.pro)  
+○ [Ride Tracker](http://ridetracker.robcodes.pro)  
 ○ [City Sprouts](​http://citysprouts.robcodes.pro)  
 ● Visit [​robcodes.pro](http://robcodes.pro)​ for my professional portfolio
 
