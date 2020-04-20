@@ -51,7 +51,7 @@ implemented as part of application modernization
 ○ [VETd](http://vetd.robcodes.pro)  
 ○ [Todo](http://todo.robcodes.pro)  
 ○ [Ride Tracker](http://ridetracker.robcodes.pro)  
-○ [City Sprouts](​http://citysprouts.robcodes.pro)  
+○ [City Sprouts](http://citysprouts.robcodes.pro)  
 ● Visit [​robcodes.pro](http://robcodes.pro)​ for my professional portfolio
 
 #### Enhanced Veterans Solutions Inc. | Senior Technology Director and Senior Systems Administrator  | 5/2018 – 2/2019
