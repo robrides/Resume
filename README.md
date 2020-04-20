@@ -21,7 +21,7 @@ http://robcodes.pro
 | GraphQL | Oracle 12c | Tomcat
 
 ### Work Experience:
-####Booz Allen Hamilton, O’Fallon, IL | Software Engineer | 9/2019 – Present
+#### Booz Allen Hamilton, O’Fallon, IL | Software Engineer | 9/2019 – Present
 ● Modernization team member for a multi-site Java and Oracle 12c based web application  
 ● Transitioning interface to Services Oriented Architecture (SOA), Simple Object Access  
 Protocol (SOAP), Security Assertion Markup Language (SAML) based service improving
@@ -48,7 +48,7 @@ implemented as part of application modernization
 ● Worked as a team member using Slack, Trello, and pair programming  
 ● Achieved Oracle Certified Associate Java SE 8 at 6 weeks into the course  
 ● Sample projects built in one week or less  
-○ [VETd](​http://vetd.robcodes.pro)  
+○ [VETd](http://vetd.robcodes.pro)  
 ○ [Todo](http://todo.robcodes.pro)  
 ○ [Ride Tracker](​http://ridetracker.robcodes.pro)  
 ○ [City Sprouts](​http://citysprouts.robcodes.pro)  
