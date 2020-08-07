@@ -1,7 +1,7 @@
 ## **Rob Lounsbury**
 MBA, MS, AWS CSA-A, OCA, CISM, CISSP  
 DoD Clearance  
-https://www.linkedin.com/in/roblounsbury 
+https://www.linkedin.com/in/roblounsbury  
 [Resume pdf](https://github.com/robrides/Resume/blob/master/robert-lounsbury-august-2020.pdf)
 
 ### Summary
