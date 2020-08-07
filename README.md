@@ -5,9 +5,10 @@ https://www.linkedin.com/in/roblounsbury
 [Resume pdf](https://github.com/robrides/Resume/blob/master/robert-lounsbury-august-2020.pdf)
 
 ### Summary
-● Full-Stack Java bootcamp graduate seeks Software Engineering position - Adept at learning new technologies and skills quickly  
+● Software Engineer seeks remote opportunities working with cloud-based applications  
+● Adept at learning new technologies and skills quickly  
 ● Strong soft skills both working within teams and at ‘C’ level  
-● Dedicated | Critical Thinker | Team Player | Leader of IT Professionals  
+● Dedicated | Critical Thinker | Team Player | Leader of IT Professionals 
 
 |   Technologies    | and         | Skills           |
 |-----------------|----------------------|-----------------|
