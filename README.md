@@ -47,7 +47,7 @@ implemented as part of application modernization
 ● Participated in Agile SCRUM methodology as a developer and database administrator  
 ● Worked as a team member using Slack, Trello, and pair programming  
 ● Achieved Oracle Certified Associate Java SE 8 at 6 weeks into the course   
-● Visit my [GitHub] (https://github.com/robrides)​ site
+● Visit my [GitHub](https://github.com/robrides)​ site
 
 #### Enhanced Veterans Solutions Inc. | Senior Technology Director and Senior Systems Administrator  | 5/2018 – 2/2019
 ● Led 40 systems administrators supporting 12 Air Mobility Command (AMC) Command and
