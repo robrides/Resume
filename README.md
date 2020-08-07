@@ -1,9 +1,8 @@
 ## **Rob Lounsbury**
 MBA, MS, AWS CSA-A, OCA, CISM, CISSP  
 DoD Clearance  
-https://www.linkedin.com/in/roblounsbury  
-http://robcodes.pro  
-[Resume pdf](https://github.com/robrides/Resume/blob/master/Rob_Lounsbury_Resume_April_2020)
+https://www.linkedin.com/in/roblounsbury 
+[Resume pdf](https://github.com/robrides/Resume/blob/master/robert-lounsbury-august-2020.pdf)
 
 ### Summary
 ● Full-Stack Java bootcamp graduate seeks Software Engineering position - Adept at learning new technologies and skills quickly  
@@ -46,13 +45,8 @@ implemented as part of application modernization
 ● Code developed using test driven development approach with JUnit Jupiter  
 ● Participated in Agile SCRUM methodology as a developer and database administrator  
 ● Worked as a team member using Slack, Trello, and pair programming  
-● Achieved Oracle Certified Associate Java SE 8 at 6 weeks into the course  
-● Sample projects built in one week or less  
-○ [VETd](http://vetd.robcodes.pro)  
-○ [Todo](http://todo.robcodes.pro)  
-○ [Ride Tracker](http://ridetracker.robcodes.pro)  
-○ [City Sprouts](http://citysprouts.robcodes.pro)  
-● Visit [​robcodes.pro](http://robcodes.pro)​ for my professional portfolio
+● Achieved Oracle Certified Associate Java SE 8 at 6 weeks into the course   
+● Visit my [GitHub] (https://github.com/robrides)​ site
 
 #### Enhanced Veterans Solutions Inc. | Senior Technology Director and Senior Systems Administrator  | 5/2018 – 2/2019
 ● Led 40 systems administrators supporting 12 Air Mobility Command (AMC) Command and
