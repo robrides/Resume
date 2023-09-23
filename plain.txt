@@ -1,0 +1,10 @@
+● Cloud engineer supporting complex Linux based SaaS log aggregation and security operations platform - architecture, deployment, and operations of offerings on AWS  
+● Reviews existing legacy based deployment patterns and architecture, redesigns and deploys in Kubernetes environment  
+● Utilizes DevOps practices and tooling to include agile methodologies, git, Gitlab CI/CD, Kubernetes, Docker, Helm, FluxCD, Terraform, Terragrunt, Hashicorp Vault  
+● Troubleshoots applications running on Java, Node.js  
+● Database experience with MySQL and Oracle  
+● Experience implementing automation using bash scripting, AWS cli commands, kubectl cli commands, and Python boto3 library  
+● Uses git and GitLab for central code management  
+● Supports both traditional Linux based infrastructure as well as Docker containerized environments running on Kubernetes  
+● Trains junior team members on all aspects of IT, security, operations, software, automation, devops  
+● Remote worker familiar with Slack, Google Meet, Zoom, Jira, Confluence, Microsoft Teams, Microsoft 365

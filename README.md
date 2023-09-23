@@ -4,24 +4,46 @@ DoD Clearance
 https://www.linkedin.com/in/roblounsbury  
 [Resume pdf](https://github.com/robrides/Resume/blob/master/robert-lounsbury-august-2020.pdf)
 
-### Summary
-● Software Engineer seeks remote opportunities working with cloud-based applications  
+### **Summary**
+● Cloud Engineer / Architect seeks remote opportunities working with cloud-based applications  
 ● Adept at learning new technologies and skills quickly  
 ● Strong soft skills both working within teams and at ‘C’ level  
 ● Dedicated | Critical Thinker | Team Player | Leader of IT Professionals 
 
 |   Technologies    | and         | Skills           |
 |-----------------|----------------------|-----------------|
-| AWS Cloud     | Angular / TypeScript / TDD | Node.js / Express |
-| Java / J2EE     | React w/ Redux | REST APIs |
-| Spring MVC     | Gradle / Maven       | Microservices |
-| Spring Data JPA | Git / Github | XML/SOAP/SAML   |
-| OOP / OOD | HTML / CSS | Trello / Agile/Scrum |
-| JUnit       | MongoDB / MLab | Linux |
-| GraphQL | Oracle 12c | Tomcat
-
-### Work Experience:
-#### Booz Allen Hamilton, O’Fallon, IL | Software Engineer | 9/2019 – Present
+| AWS Cloud     | DevOps | Linux |
+| Java / J2EE     | Jenkins | Tomcat |
+| Spring MVC     | Kubernetes / Helm      | Node.js |
+| Spring Data JPA | Docker / Containers | REST APIs   |
+| OOP / OOD / TDD | FluxCD / Automation |  Microservices |
+| GraphQL       | Terraform / Terragrunt | XML/SOAP/SAML |
+| GitLab / GitHub | Infrastructure as Code / IaC | Kanban / Agile / Scrum
+** **
+### **Work Experience:**
+#### **Devo Technology, Cambridge, MA | Cloud Engineer | 4/2021 – Present**  
+● Cloud engineer supporting complex Linux based SaaS log aggregation and security operations platform - architecture, deployment, and operations of offerings on AWS  
+● Reviews existing legacy based deployment patterns and architecture, redesigns and deploys in Kubernetes environment  
+● Utilizes DevOps practices and tooling to include agile methodologies, git, Gitlab CI/CD, Kubernetes, Docker, Helm, FluxCD, Terraform, Terragrunt, Hashicorp Vault  
+● Troubleshoots applications running on Java, Node.js  
+● Database experience with MySQL and Oracle  
+● Experience implementing automation using bash scripting, AWS cli commands, kubectl cli commands, and Python boto3 library  
+● Uses git and GitLab for central code management  
+● Supports both traditional Linux based infrastructure as well as Docker containerized environments running on Kubernetes  
+● Trains junior team members on security, operations, software, automation, devops  
+● Remote worker familiar with Slack, Google Meet, Zoom, Jira, Confluence, Microsoft Teams, Microsoft 365
+** **
+#### **Insight Global, St Louis, MO | Senior Cloud DevOps Engineer | 9/2020 – 9/2021**  
+● Web Services architect and DevOps engineer consultant assisting in modernization of an Army financial management system used throughout the DoD  
+● Key in iterating on initial DevOps pipeline implementation to improve developers ability to rapidly move code through the software development lifecycle  
+● Led migration of program DevOps pipeline to Enterprise tooling - from GitHub, Jenkins, Ansible, Artifactory to GitLab, Jenkins, Artifactory  
+● Led the analysis of the program’s ability to consume and transition interfaces to modern secured RESTful and  Simple Object Access Protocol (SOAP) web services using Java running on Tomcat  
+● Provided detailed documentation of services and processes
+Technologies include Java 11, servlets, Apache Tomcat, Apache CXF, Spring Framework, Hibernate, Python  
+● Maintained a local containerized environment running on Docker supporting development for Jenkins, GitLab, and Chef
+Remote worker   
+** **
+#### **Booz Allen Hamilton, O’Fallon, IL | Software Engineer | 9/2019 – 9/2020**
 ● Modernization team member for a multi-site Java and Oracle 12c based web application  
 ● Transitioning interface to Services Oriented Architecture (SOA), Simple Object Access  
 Protocol (SOAP), Security Assertion Markup Language (SAML) based service improving
@@ -38,18 +60,17 @@ environments via VPN
 GraphQL and TypeScript  
 ● Acquired new skills including React, Redux, GraphQL, Apollo, Node.js, and Express all being
 implemented as part of application modernization
-
-#### Skill Distillery, Denver, CO | Full-Stack Software Development Course | 3/2019 – 7/2019
+** **
+#### **Skill Distillery, Denver, CO | Full-Stack Software Development Course | 3/2019 – 7/2019**
 ● Developed multiple full-stack web applications using Java SE 8, Spring, and Hibernate  
 ● Wrote TypeScript and JavaScript building client-side user interfaces  
 ● Wrote RESTful application programming interfaces for external consumption  
 ● Code developed using test driven development approach with JUnit Jupiter  
 ● Participated in Agile SCRUM methodology as a developer and database administrator  
 ● Worked as a team member using Slack, Trello, and pair programming  
-● Achieved Oracle Certified Associate Java SE 8 at 6 weeks into the course   
-● Visit my [GitHub](https://github.com/robrides)​ site
-
-#### Enhanced Veterans Solutions Inc. | Senior Technology Director and Senior Systems Administrator  | 5/2018 – 2/2019
+● Achieved Oracle Certified Associate Java SE 8 at 6 weeks into the course  
+** **
+#### **Enhanced Veterans Solutions Inc. | Senior Technology Director and Senior Systems Administrator  | 5/2018 – 2/2019**
 ● Led 40 systems administrators supporting 12 Air Mobility Command (AMC) Command and
 Control (C2) enterprise level systems at three distributed data centers  
 ○ 3 teams, 10 enterprise level applications plus multiple infrastructure systems  
@@ -61,11 +82,10 @@ targeted at improved system reliability, availability, and maintainability
 ● Championed reorganization to ensure the highest level of contract performance  
 ● Wrote employee appraisals and recommended appropriate salary increases
 ** **
-
-#### NetEffects Inc. | Process Engineer | 4/2018
+#### **NetEffects Inc. | Process Engineer | 4/2018**
 ● Used knowledge of Capability Maturity Model Integration (CMMI) to guide process improvement for software development supporting six US Air Force fixed and rotary winged aircraft as well as missile software development efforts
 ** **
-#### Independent Contractor | IT Consultant | 11/2017 – 3/2018
+#### **Independent Contractor | IT Consultant | 11/2017 – 3/2018**
 ● Recommended enhancements to proprietary software guiding the product development team  
 ● Assisted clients with infrastructure engineering, project decomposition, and project support estimates  
 ● Analyzed and reported on past work efforts  
@@ -74,7 +94,7 @@ facilitate timely and accurate project estimates
 ● Assisted with ISO and CMMI process identification, development, and refinement to
 support IT engineering services
 ** **
-#### TRI-COR Industries, Inc., Alexandria, VA | Contract Deputy Program Manager and Chief Systems Engineer | 07/2017 – 10/2017
+#### **TRI-COR Industries, Inc., Alexandria, VA | Contract Deputy Program Manager and Chief Systems Engineer | 07/2017 – 10/2017**
 ● Led 182 personnel supporting 12 programs across Air Mobility Command and U.S.
 Transportation Command (USTRANSCOM)  
 ● Oversaw Agile and Waterfall software development methodologies with respect to
@@ -90,7 +110,7 @@ included recommended courses of action, technical solutions, project status, tec
 forecast, weekly and monthly activity reports, and discussions with various working teams  
 ● Represented the contract at technical, staff, and CIO level meetings
 ** **
-#### Independent Contractor, Belleville, IL | Project Manager | 05/2013 - 08/2013   
+#### **Independent Contractor, Belleville, IL | Project Manager | 05/2013 - 08/2013**    
 ● Independent Contractor to CenturyLink Technology Solutions (Formerly SAVVIS)  
 ● Project manager supporting DISA FedRAMP commercial cloud service provider accreditation  
 ● Led three cross functional teams through the product development process for CenturyLink
@@ -101,7 +121,7 @@ process, procedures, and policy related to security
 ● Established security documentation in line with CenturyLink’s practices to meet FedRAMP
 requirements
 ** **
-#### ExecuTech Strategic Consulting, Woodridge, VA | Information Assurance Analyst IV | 11/2012 - 05/2013    
+#### **ExecuTech Strategic Consulting, Woodridge, VA | Information Assurance Analyst IV | 11/2012 - 05/2013**    
 ● Provided certification and accreditation support to the Air Force Certifying Authority
 (AF-CA), Air Force Network Integration Center, Scott AFB, IL in the development of security
 and contingency plans documentation  
@@ -113,7 +133,6 @@ Certification and Accreditation Process (DIACAP) and AF guidelines
 ● Provided information assurance support for the development and implementation of
 security architectures to meet new and evolving security requirements using knowledge of IT application software design principles, methodologies, and approaches used in developing, coding, testing, and maintaining applications software that support functional requirements
 ** **
-
 #### US Air Force, Scott AFB, IL | Division Chief, Technology and Interoperability Facility | 2011 - 2012
 ● Directed 13 personnel in the operations and maintenance of a $50M, 15K square foot
 terrestrial, and airborne computer network test facility  
