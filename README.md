@@ -73,8 +73,8 @@ implemented as part of application modernization
 #### **Enhanced Veterans Solutions Inc. | Senior Technology Director and Senior Systems Administrator  | 5/2018 – 2/2019**
 ● Led 40 systems administrators supporting 12 Air Mobility Command (AMC) Command and
 Control (C2) enterprise level systems at three distributed data centers  
-○ 3 teams, 10 enterprise level applications plus multiple infrastructure systems  
-○ 24 / 7 / 365  
+  ○ 3 teams, 10 enterprise level applications plus multiple infrastructure systems  
+  ○ 24 / 7 / 365  
 ● Worked closely with application developers to install, upgrade, and maintain enterprise level applications using a wide range of technologies  
 ● Implemented application and infrastructure upgrades as well as security patches  
 ● Provided feedback to the customer for process and system monitoring enhancements
@@ -133,7 +133,7 @@ Certification and Accreditation Process (DIACAP) and AF guidelines
 ● Provided information assurance support for the development and implementation of
 security architectures to meet new and evolving security requirements using knowledge of IT application software design principles, methodologies, and approaches used in developing, coding, testing, and maintaining applications software that support functional requirements
 ** **
-#### US Air Force, Scott AFB, IL | Division Chief, Technology and Interoperability Facility | 2011 - 2012
+#### **US Air Force, Scott AFB, IL | Division Chief, Technology and Interoperability Facility | 2011 - 2012**
 ● Directed 13 personnel in the operations and maintenance of a $50M, 15K square foot
 terrestrial, and airborne computer network test facility  
 ● Teamed with customers in reviewing and approving project support agreements for
@@ -149,7 +149,7 @@ capabilities
 ● Conducted written performance appraisals, feedbacks, and mentored military and civilian
 personnel on professional and personal growth that contributed to Air Force goals / values
 ** **
-#### US Air Force, Transit Center Manas, Kyrgyzstan | Deputy Commander | 2010-2011
+#### **US Air Force, Transit Center Manas, Kyrgyzstan | Deputy Commander | 2010-2011**
 ● Directed engineering, installation, operations, and maintenance of entire communications squadron - 79 military and contractor personnel supporting 17 functional areas  
 ● Promoted teamwork in a diverse environment  
 ● Ensured confidentiality, integrity, and availability of classified and unclassified, system,
@@ -168,7 +168,7 @@ problems and providing assistance to include:
 ● Advised leadership on human resources and systems/network health and status
 ** **
 
-### Job Related Training and Certification
+### **Job Related Training and Certification**
 1. Oracle Certified Associate Java SE 8 Programmer, 2019
 2. AWS Certified Solutions Architect Associate (CSA-A) #(5GZXCDEKDN4QQFCG), 2018
 3. ISACA Certified Information Security Manager (CISM) #1322726, 2013
@@ -179,21 +179,20 @@ problems and providing assistance to include:
 
 ** **
 
-### Technologies Managed
+### **Technologies Managed**
 
 F5 BIgIP Load Balancers, Check Point Firewalls, Cisco Switches and Routers, VPNs, Windows Servers, Red Hat Enterprise Linux, Build Automation, Automated Backups, Oracle RAC Database Replication, Oracle Data Guard Data Protection and Disaster Recovery, Active Directory, IBM Security Access Manager, IBM Datapower XML Firewalls, Hazelcast In-Memory Data Grid, MongoDB, Presto, Talend Data Integration, JBoss, Distributed Multi-site Systems, SOA
 
 ** **
-### Education:
-#### Naval Postgraduate School, Monterey, CA | Master's Degree 09/2007
+### **Education:**
+#### **Naval Postgraduate School, Monterey, CA | Master's Degree 09/2007**
 Major: Systems Technology Command, Control, Communications / Joint Command, Control, Communications, Computers and Intelligence (JC4I)
-
-#### Touro University International, Cypress, CA | Master's Degree 09/2007
+** **
+#### **Touro University International, Cypress, CA | Master's Degree 09/2007**
 Major:​ Business Administration ​Minor: ​IT Management  
 Honors:​ Magna Cum Laude
-
-
-#### University of Maryland University College, Adelphi, MD | Bachelor's Degree 05/2002
+** **
+#### **University of Maryland University College, Adelphi, MD | Bachelor's Degree 05/2002**
 Major:​ Computer and Information Science ​Minor: ​Management  
 ​Honors: ​Cum Laude  
 ​Coursework:  
